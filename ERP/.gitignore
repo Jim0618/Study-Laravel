@@ -1,0 +1,14 @@
+/.idea
+/vendor
+/node_modules
+/public/storage
+Homestead.yaml
+Homestead.json
+.env
+composer.lock
+/.vagrant
+/public/build
+/public/css
+/public/fonts
+/public/js
+/resources/assets/vendors
