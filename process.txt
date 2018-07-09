@@ -1,0 +1,3 @@
+https://github.com/johnlui/Learn-Laravel-5/issues/5
+
+入门教程2
